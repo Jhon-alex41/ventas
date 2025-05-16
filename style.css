@@ -1,0 +1,10 @@
+h1
+    body {
+    background-image: url('JMA.jpg'); /* Cambia 'imagen.jpg' por el nombre real de tu archivo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: white;
+}
